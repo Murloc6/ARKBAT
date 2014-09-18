@@ -1,0 +1,314 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY xml "http://www.w3.org/XML/1998/namespace" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#"
+     xml:base="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#alignBetween -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#alignBetween">
+        <rdf:type rdf:resource="&owl;SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Alignment"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Element"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#belongsTo -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#belongsTo">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Element"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Source"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#hasName -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#hasName">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Source"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#trustScore -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#trustScore">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Alignment"/>
+        <rdfs:range rdf:resource="&xsd;float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Alignment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Alignment"/>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Element -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Element"/>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Source -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Source"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Source"/>
+        <hasName>S1</hasName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Source"/>
+        <hasName>S2</hasName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Source"/>
+        <hasName>S3</hasName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Alignment"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x11"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x21"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Alignment"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x11"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x22"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Alignment"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x12"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x21"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a4 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a4">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Alignment"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x11"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x31"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a5 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a5">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Alignment"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x12"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x32"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a6 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a6">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Alignment"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x21"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x31"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a7 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a7">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Alignment"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x22"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x32"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a8 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a8">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Alignment"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x23"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x32"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a9 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#a9">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Alignment"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x23"/>
+        <alignBetween rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x33"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x11 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x11">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Element"/>
+        <belongsTo rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S1"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x12 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x12">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Element"/>
+        <belongsTo rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S1"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x21 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x21">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Element"/>
+        <belongsTo rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S2"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x22 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x22">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Element"/>
+        <belongsTo rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S2"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x23 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x23">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Element"/>
+        <belongsTo rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S2"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x31 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x31">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Element"/>
+        <belongsTo rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S3"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x32 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x32">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Element"/>
+        <belongsTo rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S3"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x33 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#x33">
+        <rdf:type rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#Element"/>
+        <belongsTo rdf:resource="http://www.semanticweb.org/fabien.amarger/ontologies/2014/6/untitled-ontology-3#S3"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+
