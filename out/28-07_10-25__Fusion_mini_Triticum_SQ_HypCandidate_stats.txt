@@ -1,0 +1,1991 @@
+Instance Candidate (nb : 138 : 
+Instance Candidate (1.0 -- Source : 1.9499999 | Aligns : 3.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (1.0) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 NCBI -> Triticum durum
+		 --------- 
+Instance Candidate (1.0 -- Source : 1.9499999 | Aligns : 3.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7956
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127771
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7956 -->http://inpn.mnhn.fr/espece/cd_nom/127771 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127771 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7956 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (1.0) ------- 
+		 Agrovoc -> Triticum monococcum
+		 TaxRef -> Triticum monococcum
+		 NCBI -> Triticum monococcum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.84810126) ------- 
+		 Agrovoc -> Einkorn
+		 TaxRef -> Einkorn
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (1.0 -- Source : 1.9499999 | Aligns : 3.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (1.0) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum spelta
+		 NCBI -> Triticum spelta
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.84810126) ------- 
+		 Agrovoc -> Épeautre
+		 TaxRef -> Épeautre
+		 --------- 
+Instance Candidate (1.0 -- Source : 1.9499999 | Aligns : 3.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (1.0) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 NCBI -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.84810126) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (1.0 -- Source : 1.9499999 | Aligns : 3.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7950
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/198676
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7950 -->http://inpn.mnhn.fr/espece/cd_nom/198676 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/198676 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7950 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#GenusRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (1.0) ------- 
+		 Agrovoc -> Triticum
+		 TaxRef -> Triticum
+		 NCBI -> Triticum
+		 --------- 
+Instance Candidate (1.0 -- Source : 1.9499999 | Aligns : 3.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.9947879) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum aestivum
+		 NCBI -> Triticum aestivum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.743038) ------- 
+		 Agrovoc -> Triticum sativum
+		 NCBI -> Triticum vulgare
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.9789079 -- Source : 1.9499999 | Aligns : 2.8955941 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.98364013) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 TaxRef -> Triticum diccocum
+		 NCBI -> Triticum dicoccoides
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.9383738) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 TaxRef -> Triticum hordeiforme
+		 NCBI -> Triticum dicoccoides
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127785
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127785 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.70834935) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 NCBI -> Triticum dicoccoides
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718431
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718431 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.70834935) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 NCBI -> Triticum dicoccoides
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.70834935) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 NCBI -> Triticum dicoccoides
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+		 LC (0.82779694) ------- 
+		 TaxRef -> Triticum turgidum subsp. durum
+		 NCBI -> Triticum turgidum subsp. dicoccon
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+		 LC (0.8273609) ------- 
+		 TaxRef -> Triticum platystachyum
+		 NCBI -> Triticum carthlicum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+		 LC (0.8317174) ------- 
+		 TaxRef -> Triticum siculum
+		 NCBI -> Triticum aestivum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+		 LC (0.8340877) ------- 
+		 TaxRef -> Triticum alatum
+		 NCBI -> Triticum spelta
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+		 LC (0.82779694) ------- 
+		 TaxRef -> Triticum turgidum subsp. durum
+		 NCBI -> Triticum turgidum subsp. turgidum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum durum
+		 TaxRef -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.70834935) ------- 
+		 Agrovoc -> Triticum durum
+		 NCBI -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127785
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127785 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.70834935) ------- 
+		 Agrovoc -> Triticum durum
+		 NCBI -> Triticum durum
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718431
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718431 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.70834935) ------- 
+		 Agrovoc -> Triticum durum
+		 NCBI -> Triticum durum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum spelta
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Épeautre
+		 TaxRef -> Épeautre
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum spelta
+		 --------- 
+		 LC (0.8294919) ------- 
+		 TaxRef -> Triticum forskalei
+		 NCBI -> Triticum aestivum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Épeautre
+		 TaxRef -> Épeautre
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum spelta
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Épeautre
+		 TaxRef -> Épeautre
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum spelta
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Épeautre
+		 TaxRef -> Épeautre
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum spelta
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Épeautre
+		 TaxRef -> Épeautre
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum spelta
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Épeautre
+		 TaxRef -> Épeautre
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum spelta
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Épeautre
+		 TaxRef -> Épeautre
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum spelta
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Épeautre
+		 TaxRef -> Épeautre
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum spelta
+		 --------- 
+		 LC (0.8278514) ------- 
+		 TaxRef -> Triticum aestivum subsp. spelta
+		 NCBI -> Triticum spelta var. duhamelianum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Épeautre
+		 TaxRef -> Épeautre
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum spelta
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Épeautre
+		 TaxRef -> Épeautre
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum spelta
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Épeautre
+		 TaxRef -> Épeautre
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum spelta
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Épeautre
+		 TaxRef -> Épeautre
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.9358263) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum segetale
+		 NCBI -> Triticum spelta
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.94435495) ------- 
+		 Agrovoc -> Triticum spelta
+		 TaxRef -> Triticum alatum
+		 NCBI -> Triticum spelta
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.70834935) ------- 
+		 Agrovoc -> Triticum spelta
+		 NCBI -> Triticum spelta
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.70834935) ------- 
+		 Agrovoc -> Triticum spelta
+		 NCBI -> Triticum spelta
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.70834935) ------- 
+		 Agrovoc -> Triticum spelta
+		 NCBI -> Triticum spelta
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+		 LC (0.82735467) ------- 
+		 TaxRef -> Triticum aestivum var. turgidum
+		 NCBI -> Triticum aestivum var. vavilovii
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=570172
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=570172 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Triticum turgidum
+		 TaxRef -> Triticum turgidum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.79695696) ------- 
+		 Agrovoc -> Blé poulard
+		 TaxRef -> Blé poulard
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7891386) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum aestivum
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7891386) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum aestivum
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7891386) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum aestivum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.6891014) ------- 
+		 Agrovoc -> Triticum sativum
+		 NCBI -> Triticum vavilovi
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7891386) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum aestivum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7891386) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum aestivum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7891386) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum aestivum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7891386) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum aestivum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7891386) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum aestivum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7891386) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum aestivum
+		 --------- 
+		 LC (0.8280458) ------- 
+		 TaxRef -> Triticum segetale
+		 NCBI -> Triticum spelta
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7891386) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum aestivum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7891386) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum aestivum
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7891386) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum aestivum
+		 --------- 
+		 LC (0.84758985) ------- 
+		 TaxRef -> Triticum sphaerococcum
+		 NCBI -> Triticum sphaerococcum
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.93679035) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum forskalei
+		 NCBI -> Triticum aestivum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.69189364) ------- 
+		 Agrovoc -> Triticum sativum
+		 NCBI -> Triticum vulgare
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.93705016) ------- 
+		 Agrovoc -> Triticum aestivum
+		 TaxRef -> Triticum siculum
+		 NCBI -> Triticum aestivum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.69189364) ------- 
+		 Agrovoc -> Triticum sativum
+		 NCBI -> Triticum vulgare
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.70834935) ------- 
+		 Agrovoc -> Triticum aestivum
+		 NCBI -> Triticum aestivum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.69189364) ------- 
+		 Agrovoc -> Triticum sativum
+		 NCBI -> Triticum vulgare
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.70834935) ------- 
+		 Agrovoc -> Triticum aestivum
+		 NCBI -> Triticum aestivum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.69189364) ------- 
+		 Agrovoc -> Triticum sativum
+		 NCBI -> Triticum vulgare
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 Agrovoc(0.40000004)
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.70834935) ------- 
+		 Agrovoc -> Triticum aestivum
+		 NCBI -> Triticum aestivum
+		 --------- 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasVernacularName
+		 LC (0.69189364) ------- 
+		 Agrovoc -> Triticum sativum
+		 NCBI -> Triticum vulgare
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7952
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718430
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52163
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7952 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52163 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718430 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52163 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.83404565) ------- 
+		 TaxRef -> Triticum monococcum subsp. monococcum
+		 NCBI -> Triticum monococcum subsp. aegilopoides
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7954
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7954 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.78004074) ------- 
+		 Agrovoc -> Triticum dicoccum
+		 TaxRef -> Triticum pyramidale
+		 --------- 
+		 LC (0.82779694) ------- 
+		 TaxRef -> Triticum turgidum subsp. durum
+		 NCBI -> Triticum turgidum subsp. dicoccon
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7954
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7954 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.78802174) ------- 
+		 Agrovoc -> Triticum dicoccum
+		 TaxRef -> Triticum diccocum
+		 --------- 
+		 LC (0.84758985) ------- 
+		 TaxRef -> Triticum turgidum subsp. dicoccon
+		 NCBI -> Triticum turgidum subsp. dicoccon
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7954
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127785
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7954 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127785 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(Agrovoc,TaxRef,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.77885896) ------- 
+		 Agrovoc -> Triticum dicoccum
+		 TaxRef -> Triticum polonicum
+		 --------- 
+		 LC (0.829223) ------- 
+		 TaxRef -> Triticum turgidum subsp. polonicum
+		 NCBI -> Triticum turgidum subsp. dicoccon
+		 --------- 
+Instance Candidate (0.7979798 -- Source : 1.9499999 | Aligns : 2.0 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7954
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718431
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7954 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718431 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.83531517) ------- 
+		 TaxRef -> Triticum turgidum subsp. turgidum
+		 NCBI -> Triticum turgidum subsp. dicoccon
+		 --------- 
+Instance Candidate (0.7768877 -- Source : 1.9499999 | Aligns : 1.8955941 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.775087) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 TaxRef -> Triticum diccocum
+		 --------- 
+Instance Candidate (0.7768877 -- Source : 1.9499999 | Aligns : 1.8955941 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.775087) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 TaxRef -> Triticum diccocum
+		 --------- 
+Instance Candidate (0.7768877 -- Source : 1.9499999 | Aligns : 1.8955941 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.775087) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 TaxRef -> Triticum diccocum
+		 --------- 
+Instance Candidate (0.7768877 -- Source : 1.9499999 | Aligns : 1.8955941 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.775087) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 TaxRef -> Triticum diccocum
+		 --------- 
+Instance Candidate (0.7768877 -- Source : 1.9499999 | Aligns : 1.8955941 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.775087) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 TaxRef -> Triticum diccocum
+		 --------- 
+		 LC (0.84225005) ------- 
+		 TaxRef -> Triticum turgidum subsp. dicoccon
+		 NCBI -> Triticum turgidum subsp. dicoccon
+		 --------- 
+Instance Candidate (0.7768877 -- Source : 1.9499999 | Aligns : 1.8955941 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.775087) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 TaxRef -> Triticum diccocum
+		 --------- 
+Instance Candidate (0.7768877 -- Source : 1.9499999 | Aligns : 1.8955941 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.775087) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 TaxRef -> Triticum diccocum
+		 --------- 
+Instance Candidate (0.7768877 -- Source : 1.9499999 | Aligns : 1.8955941 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(NCBI,Agrovoc,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.9264631) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 TaxRef -> Triticum diccocum
+		 NCBI -> Triticum polonicum
+		 --------- 
+		 LC (0.8241521) ------- 
+		 TaxRef -> Triticum dicoccon
+		 NCBI -> Triticum polonicum
+		 --------- 
+Instance Candidate (0.7768877 -- Source : 1.9499999 | Aligns : 1.8955941 | ICHR : 0.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.775087) ------- 
+		 Agrovoc -> Triticum dicoccoides
+		 TaxRef -> Triticum diccocum
+		 --------- 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.77598774) ------- 
+		 TaxRef -> Triticum compactum
+		 NCBI -> Triticum compactum
+		 --------- 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993 (1.0) 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994 (1.0) 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994 (1.0) 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7951 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7951 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7957 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7957 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7951 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7951 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7951 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7565352) ------- 
+		 TaxRef -> Triticum aestivum subsp. aestivum
+		 NCBI -> Triticum aestivum var. erythrospermum
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7951 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7951 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7951 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7951 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.76235414) ------- 
+		 TaxRef -> Triticum aestivum subsp. aestivum
+		 NCBI -> Triticum aestivum subsp. yunnanense
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7951 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7957 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7957 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7951 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7637582) ------- 
+		 TaxRef -> Triticum aestivum subsp. aestivum
+		 NCBI -> Triticum aestivum subsp. tibeticum
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7951 || http://inpn.mnhn.fr/espece/cd_nom/127692 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604 (1.0) 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604 (1.0) 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127785
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127785 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040 (1.0) 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718431
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718431 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7608198) ------- 
+		 TaxRef -> Triticum turgidum subsp. turgidum
+		 NCBI -> Triticum turgidum subsp. pyramidale
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7958 || http://inpn.mnhn.fr/espece/cd_nom/127827 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127785
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127785 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(TaxRef,NCBI,) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718431
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718431 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534 (1.0) 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127785
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127785 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(TaxRef,NCBI,) 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718431
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718431 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7958 || http://inpn.mnhn.fr/espece/cd_nom/127827 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127785
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127785 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(TaxRef,NCBI,) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718431
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718431 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315 (1.0) 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127785
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127785 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606 (1.0) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(TaxRef,NCBI,) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.77598774) ------- 
+		 TaxRef -> Triticum polonicum
+		 NCBI -> Triticum polonicum
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718431
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718431 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606 (1.0) 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127785
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127785 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605 (1.0) 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718431
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718431 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7559234) ------- 
+		 TaxRef -> Triticum turgidum subsp. turgidum
+		 NCBI -> Triticum turgidum subsp. paleocolchicum
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7958 || http://inpn.mnhn.fr/espece/cd_nom/127827 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127785
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127785 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.7622239) ------- 
+		 TaxRef -> Triticum turgidum subsp. polonicum
+		 NCBI -> Triticum turgidum subsp. turgidum
+		 --------- 
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718431
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718431 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.77598774) ------- 
+		 TaxRef -> Triticum turgidum subsp. turgidum
+		 NCBI -> Triticum turgidum subsp. turgidum
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7958 || http://inpn.mnhn.fr/espece/cd_nom/127827 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718430
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77603
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718430 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77603 (1.0) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7956 || http://inpn.mnhn.fr/espece/cd_nom/127771 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.5151515 -- Source : 1.55 | Aligns : 1.0 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/718430
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=408188
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718430 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=408188 (1.0) 
+	 Label Candidate : 
+	 --> Type : http://ontology.irstea.fr/AgronomicTaxon#hasScientificName
+		 LC (0.77598774) ------- 
+		 TaxRef -> Triticum monococcum subsp. monococcum
+		 NCBI -> Triticum monococcum subsp. monococcum
+		 --------- 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7956 || http://inpn.mnhn.fr/espece/cd_nom/127771 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)
+Instance Candidate (0.47033972 -- Source : 1.55 | Aligns : 0.7781815 | ICHR : 0.0): 
+	 TaxRef(0.9499999) : http://inpn.mnhn.fr/espece/cd_nom/127738
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376532
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127738 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376532 (0.7781815) 
+	 Type Candidate : 
+	 -> http://ontology.irstea.fr/AgronomicTaxon#SpecyRank(TaxRef,NCBI,) 
+	 Relation Candidate : 
+	        -> <http://aims.fao.org/aos/agrovoc/c_7950 || http://inpn.mnhn.fr/espece/cd_nom/198676 || http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 || >
+		 TaxRef(0.9499999)
+		 NCBI(0.6)

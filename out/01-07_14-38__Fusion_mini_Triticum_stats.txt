@@ -1,0 +1,591 @@
+Stats nb InstanceFusionned : 
+	68 instances fusionned with 1 sources 
+	5 instances fusionned with 2 sources 
+	9 instances fusionned with 3 sources 
+Stats nb ObjPropFusionned : 
+	83 triples fusionned with 1 sources 
+	5 triples fusionned with 2 sources 
+	3 triples fusionned with 3 sources 
+Stats nb TypeFusionned : 
+	76 triples fusionned with 1 sources 
+	8 triples fusionned with 2 sources 
+	4 triples fusionned with 3 sources 
+-----INSTANCE------- 
+Instance (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568(1.0)
+	 (0.60571426)Agrovoc --> http://aims.fao.org/aos/agrovoc/c_7956(1.0)
+	 (0.62)TaxRef --> http://inpn.mnhn.fr/espece/cd_nom/127771(1.0)
+Instance (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564(1.0)
+	 (0.60571426)Agrovoc --> http://aims.fao.org/aos/agrovoc/c_7950(1.0)
+	 (0.62)TaxRef --> http://inpn.mnhn.fr/espece/cd_nom/198676(1.0)
+Instance (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993(1.0)
+	 (0.60571426)Agrovoc --> http://aims.fao.org/aos/agrovoc/c_7951(1.0)
+	 (0.62)TaxRef --> http://inpn.mnhn.fr/espece/cd_nom/127692(1.0)
+Instance (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040(1.0)
+	 (0.60571426)Agrovoc --> http://aims.fao.org/aos/agrovoc/c_7955(1.0)
+	 (0.62)TaxRef --> http://inpn.mnhn.fr/espece/cd_nom/141978(1.0)
+Instance (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718(1.0)
+	 (0.60571426)Agrovoc --> http://aims.fao.org/aos/agrovoc/c_7957(1.0)
+	 (0.62)TaxRef --> http://inpn.mnhn.fr/espece/cd_nom/141957(1.0)
+Instance (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718(1.0)
+	 (0.60571426)Agrovoc --> http://aims.fao.org/aos/agrovoc/c_7957(1.0)
+	 (0.62)TaxRef --> http://inpn.mnhn.fr/espece/cd_nom/141957(1.0)
+Instance (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718(1.0)
+	 (0.60571426)Agrovoc --> http://aims.fao.org/aos/agrovoc/c_7957(1.0)
+	 (0.62)TaxRef --> http://inpn.mnhn.fr/espece/cd_nom/141957(1.0)
+Instance (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225(1.0)
+	 (0.60571426)Agrovoc --> http://aims.fao.org/aos/agrovoc/c_7954(1.0)
+	 (0.62)TaxRef --> http://inpn.mnhn.fr/espece/cd_nom/127785(1.0)
+Instance (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040(1.0)
+	 (0.60571426)Agrovoc --> http://aims.fao.org/aos/agrovoc/c_7955(1.0)
+	 (0.62)TaxRef --> http://inpn.mnhn.fr/espece/cd_nom/141978(1.0)
+Instance (trust : 0.9846539) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889(1.0)
+	 (0.62)TaxRef --> http://inpn.mnhn.fr/espece/cd_nom/620964(1.0)
+Instance (trust : 0.9846539) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77603(1.0)
+	 (0.62)TaxRef --> http://inpn.mnhn.fr/espece/cd_nom/718430(1.0)
+Instance (trust : 0.9846539) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456(1.0)
+	 (0.62)TaxRef --> http://inpn.mnhn.fr/espece/cd_nom/718431(1.0)
+Instance (trust : 0.98399264) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52163(1.0)
+	 (0.60571426)Agrovoc --> http://aims.fao.org/aos/agrovoc/c_7952(1.0)
+Instance (trust : 0.9443028) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376532(0.7781815)
+	 (0.62)TaxRef --> http://inpn.mnhn.fr/espece/cd_nom/127738(0.7781815)
+
+-----OBJECT PROPERTIES TRIPLES------- 
+Object Property (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(1.0)
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7958> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://aims.fao.org/aos/agrovoc/c_7950>(1.0)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/127827> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://inpn.mnhn.fr/espece/cd_nom/198676>(1.0)
+Object Property (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(1.0)
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7951> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://aims.fao.org/aos/agrovoc/c_7950>(1.0)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/127692> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://inpn.mnhn.fr/espece/cd_nom/198676>(1.0)
+Object Property (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(1.0)
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7956> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://aims.fao.org/aos/agrovoc/c_7950>(1.0)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/127771> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://inpn.mnhn.fr/espece/cd_nom/198676>(1.0)
+Object Property (trust : 0.9846539) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77603> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568>(1.0)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/718430> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://inpn.mnhn.fr/espece/cd_nom/127771>(1.0)
+Object Property (trust : 0.9846539) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376532> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(1.0)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/127738> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://inpn.mnhn.fr/espece/cd_nom/198676>(1.0)
+Object Property (trust : 0.98399264) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(1.0)
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7957> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://aims.fao.org/aos/agrovoc/c_7950>(1.0)
+Object Property (trust : 0.98399264) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(1.0)
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7955> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://aims.fao.org/aos/agrovoc/c_7950>(1.0)
+Object Property (trust : 0.98399264) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(1.0)
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7953> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://aims.fao.org/aos/agrovoc/c_7950>(1.0)
+
+-----TYPE TRIPLES------- 
+Type (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#GenusRank>(1.0)
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7950> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#GenusRank>(1.0)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/198676> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#GenusRank>(1.0)
+Type (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7951> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/127692> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+Type (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7958> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/127827> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+Type (trust : 0.99987394) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7956> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/127771> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+Type (trust : 0.9846539) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(1.0)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/718431> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(1.0)
+Type (trust : 0.9846539) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77603> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(1.0)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/718430> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(1.0)
+Type (trust : 0.9846539) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(1.0)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/141957> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(1.0)
+Type (trust : 0.9846539) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(1.0)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/141978> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(1.0)
+Type (trust : 0.98399264) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7957> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+Type (trust : 0.98399264) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7955> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+Type (trust : 0.98399264) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7953> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(1.0)
+Type (trust : 0.9443028) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376532> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.7781815)
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/127738> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.7781815)
+
+-----REJECT TRIPLES------- 
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4572> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203468(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203469(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203466(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203467(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203464(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203465(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203462(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203463(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203460(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203461(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4569> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203463> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538171> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=879234(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=879235(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376528> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538174> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4572>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203448> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376528> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=501337(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376530> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=501337> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203459> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203465> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538173> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203460> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203448(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203447(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=501337> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376535> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203452> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203450> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4569(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4566(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203459(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203457(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203458(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203455(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203456(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203453(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1413217(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203454(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203451(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203467> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203452(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203456> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203454> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77602> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203450(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=543982> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=408188>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538172> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203469> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=408188> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203464> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=879234> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203453> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=543982(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1108845(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203464> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=570172> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=860351> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203466> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376536> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203455> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58932> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1413217> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4572(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4566> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4570(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=543982> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203468> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538170(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4566> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538172(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=879235> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203457> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538171(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538174(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538173(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538170> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376536> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4570> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=879234> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203453> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203461> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=860351(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538169(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538171> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58932(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376535> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203465> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203454> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=570172> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4570> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1108845> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77602> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=408188> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77602(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203461> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=879235> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203448> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=460378> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4572>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=103802> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4570>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=860351> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4570>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376537> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203463> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203456> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203451> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203467> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376537> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=460378> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376533> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203452> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=103802(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376533> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376529> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376535(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376536(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1413217> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376533(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538172> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376531(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376530(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203462> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376529> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376531> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203460> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376537(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538173> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4572>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203466> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203462> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203459> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203468> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376530> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52163> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=570172(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203457> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4572> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376528(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=103802> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203458> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376529(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538169> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=460378(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1108845> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203450> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203455> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538169> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538170> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203469> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203447> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203458> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203451> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376531> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993>(0.0)
+Instance (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=408188(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=203447> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=538174> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#VarietyRank>(0.0)
+Type (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4569> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52163> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568>(0.0)
+Object Property (trust : 0.024160685) : 
+	 (0.7671429)NCBI --> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58932> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4570>(0.0)
+Object Property (trust : 0.015673291) : 
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/718431> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://inpn.mnhn.fr/espece/cd_nom/127827>(0.0)
+Object Property (trust : 0.015673291) : 
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/141957> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://inpn.mnhn.fr/espece/cd_nom/127692>(0.0)
+Type (trust : 0.015673291) : 
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/127785> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.015673291) : 
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/141978> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://inpn.mnhn.fr/espece/cd_nom/127827>(0.0)
+Object Property (trust : 0.015673291) : 
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/621236> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://inpn.mnhn.fr/espece/cd_nom/127827>(0.0)
+Object Property (trust : 0.015673291) : 
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/620964> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://inpn.mnhn.fr/espece/cd_nom/127692>(0.0)
+Object Property (trust : 0.015673291) : 
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/127785> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://inpn.mnhn.fr/espece/cd_nom/198676>(0.0)
+Object Property (trust : 0.015673291) : 
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/718429> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://inpn.mnhn.fr/espece/cd_nom/127692>(0.0)
+Type (trust : 0.015673291) : 
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/718429> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(0.0)
+Type (trust : 0.015673291) : 
+	 (0.62)TaxRef --> <http://inpn.mnhn.fr/espece/cd_nom/620964> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(0.0)
+Type (trust : 0.01502564) : 
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_8412> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(0.0)
+Instance (trust : 0.01502564) : 
+	 (0.60571426)Agrovoc --> http://aims.fao.org/aos/agrovoc/c_7337(0.0)
+Object Property (trust : 0.01502564) : 
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_8412> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://aims.fao.org/aos/agrovoc/c_7950>(0.0)
+Object Property (trust : 0.01502564) : 
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7952> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://aims.fao.org/aos/agrovoc/c_7950>(0.0)
+Type (trust : 0.01502564) : 
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7337> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#Taxon>(0.0)
+Instance (trust : 0.01502564) : 
+	 (0.60571426)Agrovoc --> http://aims.fao.org/aos/agrovoc/c_8412(0.0)
+Type (trust : 0.01502564) : 
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7954> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.01502564) : 
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7337> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://aims.fao.org/aos/agrovoc/c_7950>(0.0)
+Type (trust : 0.01502564) : 
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7952> rdf:type <http://ontology.irstea.fr/AgronomicTaxon#SpecyRank>(0.0)
+Object Property (trust : 0.01502564) : 
+	 (0.60571426)Agrovoc --> <http://aims.fao.org/aos/agrovoc/c_7954> <http://ontology.irstea.fr/AgronomicTaxon#hasHigherRank> <http://aims.fao.org/aos/agrovoc/c_7950>(0.0)

@@ -1,0 +1,55 @@
+Instance Candidate Results : 
+Instance Candidate : 
+	 S1(0.60571426) : http://s1.fr#x12
+	 S2(0.62) : http://s2.fr#x21
+	 S3(0.7671429) : http://s3.fr#x32
+	 	 *** http://s1.fr#x12 -->http://s2.fr#x21 (0.9) 
+	 	 *** http://s1.fr#x12 -->http://s2.fr#x21 (0.9) 
+	 	 *** http://s1.fr#x12 -->http://s3.fr#x32 (0.9) 
+	 	 *** http://s1.fr#x12 -->http://s3.fr#x32 (0.9) 
+Instance Candidate : 
+	 S1(0.60571426) : http://s1.fr#x11
+	 S2(0.62) : http://s2.fr#x21
+	 S3(0.7671429) : http://s3.fr#x31
+	 	 *** http://s1.fr#x11 -->http://s2.fr#x21 (0.9) 
+	 	 *** http://s1.fr#x11 -->http://s2.fr#x21 (0.9) 
+	 	 *** http://s1.fr#x11 -->http://s3.fr#x31 (0.9) 
+	 	 *** http://s1.fr#x11 -->http://s3.fr#x31 (0.9) 
+	 	 *** http://s2.fr#x21 -->http://s3.fr#x31 (0.9) 
+Instance Candidate : 
+	 S1(0.60571426) : http://s1.fr#x11
+	 S2(0.62) : http://s2.fr#x22
+	 S3(0.7671429) : http://s3.fr#x31
+	 	 *** http://s1.fr#x11 -->http://s2.fr#x22 (0.9) 
+	 	 *** http://s1.fr#x11 -->http://s2.fr#x22 (0.9) 
+	 	 *** http://s1.fr#x11 -->http://s3.fr#x31 (0.9) 
+	 	 *** http://s1.fr#x11 -->http://s3.fr#x31 (0.9) 
+Instance Candidate : 
+	 S2(0.62) : http://s2.fr#x22
+	 S1(0.60571426) : http://s1.fr#x11
+	 S3(0.7671429) : http://s3.fr#x32
+	 	 *** http://s2.fr#x22 -->http://s3.fr#x32 (0.9) 
+	 	 *** http://s1.fr#x11 -->http://s2.fr#x22 (0.9) 
+	 	 *** http://s1.fr#x11 -->http://s2.fr#x22 (0.9) 
+	 	 *** http://s2.fr#x22 -->http://s3.fr#x32 (0.9) 
+Instance Candidate : 
+	 S2(0.62) : http://s2.fr#x23
+	 S3(0.7671429) : http://s3.fr#x32
+	 	 *** http://s2.fr#x23 -->http://s3.fr#x32 (0.9) 
+	 	 *** http://s2.fr#x23 -->http://s3.fr#x32 (0.9) 
+Instance Candidate : 
+	 S2(0.62) : http://s2.fr#x21
+	 S1(0.60571426) : http://s1.fr#x12
+	 S3(0.7671429) : http://s3.fr#x31
+	 	 *** http://s2.fr#x21 -->http://s3.fr#x31 (0.9) 
+	 	 *** http://s1.fr#x12 -->http://s2.fr#x21 (0.9) 
+	 	 *** http://s1.fr#x12 -->http://s2.fr#x21 (0.9) 
+	 	 *** http://s2.fr#x21 -->http://s3.fr#x31 (0.9) 
+Instance Candidate : 
+	 S2(0.62) : http://s2.fr#x21
+	 S1(0.60571426) : http://s1.fr#x11
+	 S3(0.7671429) : http://s3.fr#x31
+	 	 *** http://s2.fr#x21 -->http://s3.fr#x31 (0.9) 
+	 	 *** http://s1.fr#x11 -->http://s2.fr#x21 (0.9) 
+	 	 *** http://s1.fr#x11 -->http://s2.fr#x21 (0.9) 
+	 	 *** http://s2.fr#x21 -->http://s3.fr#x31 (0.9) 

@@ -1,0 +1,602 @@
+Instance Candidate Results : 
+Instance Candidate (0.8322459 -- Source : 1.9 | Aligns : 1.8955941): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040 (1.0) 
+Instance Candidate (0.8322459 -- Source : 1.9 | Aligns : 1.8955941): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401 (1.0) 
+Instance Candidate (0.8322459 -- Source : 1.9 | Aligns : 1.8955941): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+Instance Candidate (0.8322459 -- Source : 1.9 | Aligns : 1.8955941): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534 (1.0) 
+Instance Candidate (0.8322459 -- Source : 1.9 | Aligns : 1.8955941): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+Instance Candidate (0.8322459 -- Source : 1.9 | Aligns : 1.8955941): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315 (1.0) 
+Instance Candidate (0.97073406 -- Source : 1.9 | Aligns : 2.8955941): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+Instance Candidate (0.8322459 -- Source : 1.9 | Aligns : 1.8955941): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456 (1.0) 
+Instance Candidate (0.8322459 -- Source : 1.9 | Aligns : 1.8955941): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606 (1.0) 
+Instance Candidate (0.8322459 -- Source : 1.9 | Aligns : 1.8955941): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://inpn.mnhn.fr/espece/cd_nom/621236 (0.8955941) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127785
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127785 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/718431
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718431 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7953
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7953 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=744040 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=376534 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=295401 (1.0) 
+Instance Candidate (0.975873 -- Source : 1.9 | Aligns : 3.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49315 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77606 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77605 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=357456 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://inpn.mnhn.fr/espece/cd_nom/141978 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127785
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127785 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7955
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/718431
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7955 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718431 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4567 (1.0) 
+Instance Candidate (0.975873 -- Source : 1.9 | Aligns : 3.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7956
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127771
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7956 -->http://inpn.mnhn.fr/espece/cd_nom/127771 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127771 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7956 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4568 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889 (1.0) 
+Instance Candidate (0.975873 -- Source : 1.9 | Aligns : 3.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://inpn.mnhn.fr/espece/cd_nom/141957 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7957
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+Instance Candidate (0.975873 -- Source : 1.9 | Aligns : 3.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4571 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=570172
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=570172 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7958
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7958 -->http://inpn.mnhn.fr/espece/cd_nom/127827 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=85692 (1.0) 
+Instance Candidate (0.975873 -- Source : 1.9 | Aligns : 3.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7950
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/198676
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7950 -->http://inpn.mnhn.fr/espece/cd_nom/198676 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/198676 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7950 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4564 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69993 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69994 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=69995 (1.0) 
+Instance Candidate (0.975873 -- Source : 1.9 | Aligns : 3.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876341 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876342 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876344 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=876345 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=425487 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=58933 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=279889 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=231718 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127692
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://inpn.mnhn.fr/espece/cd_nom/127692 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127692 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77604 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141957
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141957 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/620964
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/620964 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127827
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127827 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7951
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/718429
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7951 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718429 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4565 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7952
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/718430
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52163
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7952 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52163 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718430 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=52163 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7954
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/141978
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7954 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/141978 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7954
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/621236
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7954 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/621236 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7954
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/127785
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7954 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/127785 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+Instance Candidate (0.85814893 -- Source : 1.9 | Aligns : 2.0): 
+	 Agrovoc(0.40000004) : http://aims.fao.org/aos/agrovoc/c_7954
+	 TaxRef(0.9) : http://inpn.mnhn.fr/espece/cd_nom/718431
+	 NCBI(0.6) : http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225
+	 	 *** http://aims.fao.org/aos/agrovoc/c_7954 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
+	 	 *** http://inpn.mnhn.fr/espece/cd_nom/718431 -->http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=49225 (1.0) 
