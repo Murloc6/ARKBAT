@@ -8,6 +8,7 @@ package Candidate;
 
 import Alignment.Alignment;
 import Source.Source;
+import muskca.Muskca;
 import com.mongodb.BasicDBObject;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -42,6 +43,7 @@ public class InstanceCandidate extends Candidate
     
     public InstanceCandidate()
     {
+        super();
         this.uriImplicate = new HashMap<>();
         this.aligns = new ArrayList<>();
         //this.labelCandidates = new HashMap<>();
@@ -119,9 +121,13 @@ public class InstanceCandidate extends Candidate
         this.labelCands.add(labelC);
     }
     
-    public void addAllLabelsCandidate(ArrayList<LabelCandidate> labelCs)
+    public void addAllLabelsCandidate(ArrayList<LabelCandidate> labelCs, float trustLcMax)
     {
-        this.labelCands.addAll(labelCs);
+        for(LabelCandidate lc : labelCs)
+        {
+            lc.computeTrustScore(trustLcMax);
+            this.labelCands.add(lc);
+        }
     }
     
     public ArrayList<LabelCandidate> getLabelCandidates()
@@ -261,5 +267,73 @@ public class InstanceCandidate extends Candidate
            doc.append("trustScore", this.getTrustScore());
 
            return doc;
+    }
+
+    @Override
+    public String toProvO(String baseUri, int numInst)
+    {
+        String uriCand =Muskca.uriMuskca+this.sElem+"/"+numInst;
+        String uriOntObj = baseUri+this.sElem+"/"+numInst; 
+        String ret = "<"+uriCand+"> rdf:type :Entity; rdf:type rdf:Statement; rdf:subject <"+uriOntObj+">; rdf:predicate rdf:type; rdf:object rdfs:Ressource.\n ";
+        ret += "<"+uriCand+"> <"+Muskca.uriMuskca+"hadTrustScore> "+this.getTrustScore()+"^^xsd:double.\n";
+        //String ret = "Instance Candidate ("+this.trustScore+" -- Source : "+this.trustSource+" | Aligns : "+this.trustAlign+" | ICHR : "+this.trustICHR+"): \n";
+        for(Entry<Source, String> e : this.uriImplicate.entrySet())
+        {
+            //ret += "\t "+e.getKey().getName()+"("+e.getKey().getSourceQualityScore()+") : "+e.getValue()+"\n";
+            ret += "<"+e.getValue()+"> rdf:type :Entity; rdf:type rdf:Statement.\n";
+            ret += "<"+uriCand+"> :wasDerivedFrom <"+e.getValue()+">. \n";
+        }
+        
+        /*for(Alignment a : this.aligns)
+        {
+            ret += "\t \t *** "+a.getUri()+" -->"+a.getUriAlign()+" ("+a.getValue()+") \n";
+        }*/
+        
+        /*if(this.typeCands.size() > 0)
+        {
+            ret += "\t Type Candidate : \n";
+            for(TypeCandidate tc : this.typeCands)
+            {
+                ret += tc.toString();
+            }
+        }
+        
+        if(this.labelCands.size() > 0)
+        {
+             ret += "\t Label Candidate : \n";
+             for(LabelCandidate lc : this.labelCands)
+             {
+                 ret += lc.toString();
+             }
+        }*/
+        
+        /*
+        if(this.relCands.size() > 0)
+        {
+            ret += "\t Relation Candidate : \n";
+            for(RelationCandidate rc : this.relCands)
+            {
+                ret += rc.toString();
+            }
+        }*/
+        
+        return ret;
+    }
+    
+    public void clearLabelsCandidates()
+    {
+        ArrayList<LabelCandidate> newLabels = new ArrayList<>();
+        ArrayList<String> lcTreated = new ArrayList<>();
+        for(LabelCandidate lc : this.labelCands)
+        {
+           //String typeURI = lc.getDataProp();
+            String refLC = lc.getRefId();
+            if(!lcTreated.contains(refLC))
+            {
+               lcTreated.add(refLC);
+               newLabels.add(lc);
+            }
+       }
+        this.labelCands = newLabels;
     }
 }

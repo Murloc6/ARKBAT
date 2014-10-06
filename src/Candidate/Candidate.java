@@ -18,6 +18,12 @@ public abstract class Candidate
 {
     protected float trustScore = 0;
     protected HashMap<Source,  String> uriImplicate;
+    protected String sElem;
+    
+    public Candidate()
+    {
+        this.sElem = this.getClass().getSimpleName();
+    }
     
     public abstract void addElem(Source s, String uriElem);
     
@@ -31,5 +37,7 @@ public abstract class Candidate
     public abstract String toString();
     
     public abstract BasicDBObject toDBObject();
+    
+    public abstract String toProvO(String baseUri, int nbCand);
     
 }

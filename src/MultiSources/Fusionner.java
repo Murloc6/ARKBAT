@@ -21,6 +21,8 @@ import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.MongoClient;
 import com.mongodb.WriteResult;
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.Serializable;
 import java.net.UnknownHostException;
@@ -29,6 +31,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map.Entry;
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.io.IOUtils;
 
 /**
  *
@@ -280,6 +283,87 @@ public class Fusionner implements Serializable
         for(InstanceCandidate ic : this.instCandidates)
         {
             ret += ic.toString();
+        }
+        
+        return ret;
+    }
+    
+    private String getOwlFileToTtl(String owlFile)
+    {
+        
+//        String ret = "prefix : <http://www.w3.org/2002/07/owl#> \n" +
+//"prefix owl: <http://www.w3.org/2002/07/owl#> \n" +
+//"prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \n" +
+//"prefix xml: <http://www.w3.org/XML/1998/namespace> \n" +
+//"prefix xsd: <http://www.w3.org/2001/XMLSchema#> \n" +
+//"prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> ";
+        
+        /*String ret = "prefix : <http://www.w3.org/2002/07/owl#> \n" +
+"prefix owl: <http://www.w3.org/2002/07/owl#> \n" +
+"prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \n" +
+"prefix xml: <http://www.w3.org/XML/1998/namespace> \n" +
+"prefix xsd: <http://www.w3.org/2001/XMLSchema#> \n" +
+"prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> \n" +
+"prefix skos: <http://www.w3.org/2004/02/skos/core#> \n" +
+"prefix swrl: <http://www.w3.org/2003/11/swrl#> \n" +
+"prefix swrlb: <http://www.w3.org/2003/11/swrlb#> \n" +
+"prefix terms: <http://purl.org/dc/terms/> \n" +
+"prefix AgronomicTaxon: <http://ontology.irstea.fr/AgronomicTaxon#> \n" +
+"base <http://ontology.irstea.fr/AgronomicTaxon> \n";*/
+        
+        //ret += "INSERT DATA {";
+        String ret = "";
+        try 
+        {
+            ret +=  IOUtils.toString( new FileInputStream(new File(owlFile)));
+            //ret = ret.replaceAll("^@.+\\.$", "");   // remove Prefix (wrong syntax for SPARQL insert query)
+        } 
+        catch (IOException ex) 
+        {
+            System.err.println("Can't read provo file!");
+            System.exit(0);
+        }
+        return ret;
+    }
+    
+    private String setPrefix()
+    {
+        String ret = "";
+        
+        ret +="@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . \n";
+        ret += "@prefix : <http://www.w3.org/ns/prov#> . \n";
+        ret += "@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . \n";
+        ret += "@prefix owl: <http://www.w3.org/2002/07/owl#> . \n";
+        ret += "@prefix xsd: <http://www.w3.org/2001/XMLSchema#> . \n";
+        
+        
+         ret += "@prefix : <http://www.w3.org/2002/07/owl#> . \n" +
+                    "@prefix owl: <http://www.w3.org/2002/07/owl#> . \n" +
+                    "@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . \n" +
+                    "@prefix xml: <http://www.w3.org/XML/1998/namespace> . \n" +
+                    "@prefix xsd: <http://www.w3.org/2001/XMLSchema#> . \n" +
+                    "@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . \n" +
+                    "@prefix skos: <http://www.w3.org/2004/02/skos/core#> . \n" +
+                    "@prefix swrl: <http://www.w3.org/2003/11/swrl#> . \n" +
+                    "@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> . \n" +
+                    "@prefix terms: <http://purl.org/dc/terms/> . \n" +
+                    "@prefix AgronomicTaxon: <http://ontology.irstea.fr/AgronomicTaxon#> . \n";
+        return ret;
+    }
+    
+    public String allCandidatesToProvo(String provoFile, String adomFile, String baseUri)
+    {
+        
+        this.instCandidates.sort(new InstanceCandidateComparator());
+        //String ret = "Instance Candidate (nb : "+this.instCandidates.size()+" : \n";
+        String ret = this.setPrefix();
+        ret += this.getOwlFileToTtl(provoFile);
+        ret += this.getOwlFileToTtl(adomFile);
+        int numInst = 1;
+        for(InstanceCandidate ic : this.instCandidates)
+        {
+            ret += ic.toProvO(baseUri, numInst);
+            numInst ++;
         }
         
         return ret;
@@ -557,7 +641,7 @@ public class Fusionner implements Serializable
          DBCollection collMongo = null;
         if(mongoCollectionLabels != null)
         {
-            this.connectMongo(mongoCollectionLabels);
+            collMongo = connectMongo(mongoCollectionLabels);
         }
         for(InstanceCandidate ic : this.instCandidates)
         {
@@ -567,25 +651,23 @@ public class Fusionner implements Serializable
                 if(lcs != null && lcs.size() > 0)
                 {
                     //ic.addLabelCandidates(dataProp, lcs);
-                    ic.addAllLabelsCandidate(lcs);
+                    ic.addAllLabelsCandidate(lcs, trustLcMax);
                 }
             }
+            ic.clearLabelsCandidates();
             if(mongoCollectionLabels != null)
             {
+                ArrayList<String> lcTreated = new ArrayList<>();
                  for(LabelCandidate lc : ic.getLabelCandidates())
                  {
-                    String typeURI = lc.getDataProp();
-                    lc.computeTrustScore(trustLcMax);
-
                     try
                     {
-                          WriteResult wr =collMongo.insert(lc.toDBObject());
+                         WriteResult wr =collMongo.insert(lc.toDBObject());
                     }
                     catch(NullPointerException ex)
                     {
-                        System.err.println("ERROR Mongo Writer null ...");
-                        System.err.println(ex);
-                        //System.exit(0);
+                        System.err.println("ERROR Mongo Writer null (LC) ...");
+                        System.exit(0);
                     }
                 }
             }

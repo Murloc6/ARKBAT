@@ -24,6 +24,7 @@ public class TypeCandidate extends Candidate
     
     public TypeCandidate(InstanceCandidate ic, String uriTypeCandidate)
     {
+        super();
         this.uriImplicate = new HashMap<>();
         this.ic = ic;
         this.uriTypeCandidate = uriTypeCandidate;
@@ -93,6 +94,12 @@ public class TypeCandidate extends Candidate
         doc.append("trustScore", this.trustScore);
         
         return doc;
+    }
+
+    @Override
+    public String toProvO(String baseUri, int numCand)
+    {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
 }

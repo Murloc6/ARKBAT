@@ -25,6 +25,7 @@ public class RelationCandidate extends Candidate
     
     public RelationCandidate(String relImp, InstanceCandidate ic, InstanceCandidate icHR, ArrayList<Source> sources)
     {
+        super();
         this.ic = ic;
         this.icHR = icHR;
         this.sourcesHR = sources;
@@ -108,6 +109,12 @@ public class RelationCandidate extends Candidate
         doc.append("trustScore", this.getTrustScore());
         
         return doc;
+    }
+
+    @Override
+    public String toProvO(String baseUri, int nbCand)
+    {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
 }
